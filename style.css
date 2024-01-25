@@ -45,7 +45,7 @@ li {
 }
 
 .header img {
-	width: 56px;
+	width: 5px;
 	border-radius: 50%;
 	object-fit: none;
 }
@@ -86,7 +86,7 @@ li {
 	padding: 2em;
 	max-width: 800px;
 	margin: auto;
-	font-size: 3em;
+	font-size: 1,5em;
 	border-radius: var(--border-radius);
 	color: white;
 }
