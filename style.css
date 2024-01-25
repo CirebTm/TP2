@@ -86,7 +86,7 @@ li {
 	padding: 2em;
 	max-width: 800px;
 	margin: auto;
-	font-size: 2em;
+	font-size: 1,8em;
 	border-radius: var(--border-radius);
 	color: white;
 }
